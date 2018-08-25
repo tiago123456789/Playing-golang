@@ -1,0 +1,2 @@
+25/08/2018 17:50:12 - http://www.google.com.br - online:true
+25/08/2018 17:50:13 - http://www.youtube.com.br - online:true
